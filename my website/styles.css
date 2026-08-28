@@ -1,0 +1,55 @@
+body {
+    background:  #0f3e0f;
+    margin: 0;
+    padding: 0 10px;
+    font-family: "Helvetica Neue";
+}
+
+h1 {
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-weight: 500;
+    color: #1d3030;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-weight: normal;
+    color: #1d3030;
+}
+
+nav {
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-weight: normal;
+    font-size: 20px;
+    color: #1d3030;
+}
+
+h3 {
+    font-family: "Helvetica Neue";
+    font-weight: normal;
+    color: #1d3030;
+}
+
+figcaption {
+    font-family: "Helvetica Neue";
+    font-style: oblique;
+    font-weight: normal;
+    color: #1d3030;
+}
+
+p {
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-weight: normal;
+    color: #00cc7e;
+}
+
+.main-content {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #00cc7e;
+    padding: 30px 20px;
+}
