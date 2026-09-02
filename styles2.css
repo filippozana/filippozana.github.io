@@ -46,9 +46,24 @@ p {
     color: #1d3030;
 }
 
-.main-content {
+header {
     max-width: 900px;
     margin: 0 auto;
     background: #00cc7e;
     padding: 30px 20px;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #00cc7e;
+    padding: 30px 20px;
+}
+
+footer {
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-style: normal;
+    font-weight: normal;
+    color: #00cc7e;
 }
